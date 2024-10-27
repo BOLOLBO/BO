@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF：-1，CCTV1-综合标清  SD 
+#EXTINF:-1,CCTV1-综合 SD
 http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV2-财经 SD
 http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000317/9470800/1.m3u8
-#EXTINF:-1,CCTV3-综艺
+#EXTINF:-1,CCTV3-综艺 SD
 http://58.57.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV4-中文国际
 http://58.57.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5-体育
 http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000360/9470800/1.m3u8
-#EXTINF：-1，CCTV6-电影
+#EXTINF:-1,CCTV6-电影
 http://58.57.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV7-国防军事
 http://58.57.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -33,7 +33,7 @@ http://58.57.21.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.57.21.166:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV17-农业农村
 http://58.57.21.166:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1, 山东卫视
+#EXTINF:-1,山东卫视
 http://58.57.21.166:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,重庆卫视
 http://58.57.21.166:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -53,9 +53,9 @@ http://58.57.21.166:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.57.21.166:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,浙江卫视
 http://58.57.21.166:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1，湖南卫视
+#EXTINF:-1,湖南卫视
 http://58.57.21.166:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1, 新疆卫视
+#EXTINF:-1,新疆卫视
 http://58.57.21.166:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,内蒙古卫视
 http://58.57.21.166:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -67,11 +67,11 @@ http://58.57.21.166:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.57.21.166:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,天津卫视
 http://58.57.21.166:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1, 河北卫视
+#EXTINF:-1,河北卫视
 http://58.57.21.166:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,东方卫视
 http://58.57.21.166:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1, 东南卫视
+#EXTINF:-1,东南卫视
 http://58.57.21.166:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,广西卫视
 http://58.57.21.166:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -102,11 +102,11 @@ http://58.57.21.166:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1,CCTV1-综合 JS
 http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经JS
+#EXTINF:-1,CCTV2-财经 JS
 http://58.220.219.14:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV3-综艺
 http://58.220.219.14:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF：-1，CCTV4-国际
+#EXTINF:-1,CCTV4-国际
 http://58.220.219.14:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5-体育
 http://58.220.219.14:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -267,51 +267,51 @@ http://222.223.84.193:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=
 http://222.223.84.193:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,山东卫视
 http://222.223.84.193:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :-1、河南卫视
+#EXTINF:-1,河南卫视
 http://222.223.84.193:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,黑龙江卫视
+#EXTINF:-1,黑龙江卫视
 http://222.223.84.193:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,四川卫视
+#EXTINF:-1,四川卫视
 http://222.223.84.193:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,江西卫视
+#EXTINF:-1,江西卫视
 http://222.223.84.193:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,贵州卫视
+#EXTINF:-1,贵州卫视
 http://222.223.84.193:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1，深圳卫视
+#EXTINF:-1,深圳卫视
 http://222.223.84.193:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1，卫湖北视
+#EXTINF:-1,湖北卫视
 http://222.223.84.193:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,金鹰信用卡
+#EXTINF:-1,金鹰卡通
 http://222.223.84.193:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 , kaku少儿
+#EXTINF:-1,kaku 少儿
 http://222.223.84.193:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,优漫漫画
+#EXTINF:-1,优漫卡通
 http://222.223.84.193:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,昌黎电视台
+#EXTINF:-1,昌黎电视
 http://222.223.84.193:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 , 抚宁电视台
+#EXTINF:-1,抚宁电视
 http://222.223.84.193:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,卢龙电视
+#EXTINF:-1,卢龙电视
 http://222.223.84.193:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,滦南电视
+#EXTINF:-1,滦南电视
 http://222.223.84.193:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1、滦州电视台
+#EXTINF:-1,滦州电视
 http://222.223.84.193:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,东方卫视
+#EXTINF:-1,东方卫视
 http://222.223.84.193:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1，重庆卫视
+#EXTINF:-1,重庆卫视
 http://222.223.84.193:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF  :-1 ,山西卫视
+#EXTINF:-1,山西卫视
 http://222.223.84.193:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :-1、陕西卫视
+#EXTINF:-1,陕西卫视
 http://222.223.84.193:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,青海卫视
+#EXTINF:-1,青海卫视
 http://222.223.84.193:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,海南卫视
+#EXTINF:-1,海南卫视
 http://222.223.84.193:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 ,西藏卫视
+#EXTINF:-1,西藏卫视
 http://222.223.84.193:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF :- 1 , 新疆卫视
+#EXTINF:-1,新疆卫视
 http://222.223.84.193:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF  :-1 ,吉林卫视
+#EXTINF:-1,吉林卫视
 http://222.223.84.193:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
