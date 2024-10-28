@@ -4,8 +4,9 @@
 http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000317/9470800/1.m3u8
 #EXTINF:-1,CCTV2-财经 SD2
 http://218.58.124.134:65295/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000317/9470800/1.m3u8
-#EXTINF:-1,CCTV2-财经 SD3
-http://239.253.0.1:1983/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000317/9470800/1.m3u8
+
+#EXTINF:-1,CCTV5-体育 II
+http://39.136.51.81:8089/00/SNM/CHANNEL00000360/index.m3u8
 #EXTINF:-1,CCTV1-综合 SD
 http://218.58.124.134:65295/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV1-综合 SD
@@ -18,8 +19,7 @@ http://58.57.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.57.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV5-体育
 http://58.57.21.166:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育 2
-http://39.136.51.81:8089/00/SNM/CHANNEL00000360/index.m3u8
+
 #EXTINF:-1,CCTV6-电影
 http://58.57.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,CCTV7-国防军事
