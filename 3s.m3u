@@ -1,38 +1,15 @@
 #EXTM3U
-#EXTINF:-1, group-title="央视",CCTV1-综合 SD
+#EXTINF:-1, group-title="央视",CCTV1-综合 A
 http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000311//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV2-财经 SD
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000317//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV3-综艺 SD
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000359//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV4-国际 SD
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000320//5840800/1.m3u8
+
 #EXTINF:-1, group-title="央视",CCTV5-体育 SD
 http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000360//5840800/1.m3u8
 #EXTINF:-1, group-title="央视",CCTV6-电影 SD
 http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000361//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV7-军农
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000318//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV8-电视剧
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000362//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV9-纪录
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000319//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV10-科教
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000321//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV11-戏曲
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000344//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV12-社会与法
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000322//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV13-新闻
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000345//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV14-少儿
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000323//5840800/1.m3u8
-#EXTINF:-1, group-title="央视",CCTV15-音乐
-http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL0000034
-#EXTINF:-1,CCTV1 III
+#EXTINF:-1,CCTV1-综合 B
 http://39.136.51.73:8089/wh7f454c46tw4022986672_1475960173/2/00/CHANNEL00000311/5840800/1.m3u8
 
-#EXTINF:-1,CCTV2-财经 II
+#EXTINF:-1,CCTV2-财经 A
 http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000317/9470800/1.m3u8
 #EXTINF:-1,CCTV5 II
 http://39.136.51.73:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000360/9470800/1.m3u8
@@ -78,43 +55,6 @@ http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000330/9
 #EXTINF:-1,湖南卫视 II
 http://39.136.51.81:8089/wh7f454c46tw2388676525_833751090/2/00/CHANNEL00000324/9470800/1.m3u8
 
-#EXTINF:-1,CCTV1-综合 SD
-http://218.58.124.134:65295/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV1-综合 SD
-http://58.57.21.166:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV2-财经 SD
-http://58.57.21.166:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV3-综艺 SD
-http://58.57.21.166:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV4-中文国际
-http://58.57.21.166:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5-体育
-http://58.57.21.166:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,CCTV6-电影
-http://58.57.21.166:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV7-国防军事
-http://58.57.21.166:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV8-电视剧
-http://58.57.21.166:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV9-纪录
-http://58.57.21.166:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV10-科教
-http://58.57.21.166:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV11-戏曲
-http://58.57.21.166:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV12-社会与法
-http://58.57.21.166:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV13-新闻
-http://58.57.21.166:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV14-少儿
-http://58.57.21.166:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV15-音乐
-http://58.57.21.166:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV5+体育赛事
-http://58.57.21.166:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,CCTV17-农业农村
-http://58.57.21.166:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,山东卫视
 http://58.57.21.166:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,重庆卫视
@@ -358,4 +298,3 @@ http://59.173.243.210:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=
 http://59.173.243.210:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,湖北垄上
 http://59.173.243.210:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
-
